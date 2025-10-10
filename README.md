@@ -1,3 +1,22 @@
+Dear Chairs, we'd like to raise concerns about some grave factual errors and unprofessional comments regarding reviewer 8Gbe. It is likely that the reviewer lacks basic understanding and denies the whole watermarking community with subjective bias.
+
+**Factual error 1**: The reviewer questions the attack implementation and doubts their effectiveness (Weakness 1). However, all our attacks are the main trending topics in many digital and generative watermarking works, e.g., Stable Signature-ICCV23 and VINE-ICLR25. Moreover, **all other 4 reviewers unanimously acknowledge our comprehensive attack defense experiments**. This means the reviewer may hold subjective bias on the whole watermarking domain and come to an unfair and unprofessional conclusion.
+
+**Factual error 2**: The reviewer questions our loss optimization and the relationship of the components (Weakness 2+3). However, all our loss diagrams strictly follow the standard pipeline adopted in many watermarking works, e.g., DERO-ACMMM24. These basic loss designs have undergone extensive evaluation and theoretical analysis, and our experiments have also proven effective and achieve the SOTA. Moreover, **all other 4 reviewers unanimously acknowledge our novel adversarial training loss pipeline**. This means the reviewer may lack basic background on watermarking objective and learning optimization.
+
+In conclusion, these hasty and unprofessional comments may not yield a confidence as high as 4. Moreover, the reviewer may have negative and subjective bias on the whole watermarking community which may result in an unfair and unjustified rating. We sincerely ask the SPC, AC and PC to take these concerns into consideration when making the final decision.
+
+Thanks for your valuable help and understanding!
+
+
+
+
+
+
+
+
+
+
 **1. Time Analysis**: In Appendix Fig. 2, our decoding takes only 0.95s and encoding is as low as (0.93+n*0.2)s, adjustable for speed/accuracy (ACC).
 
 **2. Theorem Analysis**: The empirical results with $L_2$: $\alpha=0.012, \delta=0.007$, actual $\eta_2$ bound is $0.010>\alpha-\delta$, validating our assumption.
