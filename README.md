@@ -20,7 +20,7 @@ To **NpMA**:
 
 To **8Gbe**:
 
-1. Distortions are quite typical while Regen attacks emerge from trending diffusion model (see Discussion Appendix); The combined attacks are stress tests adopted in many works like MBRS and also supported by reviewer **NpMA**; Please see Analysis 1.
+1. Distortions and Regen attacks are the main focus adopted in real digital and diffusion generative watermarking (see Discussion Appendix); The combined attacks are stress tests adopted in many works like MBRS and also supported by reviewer **NpMA**; Please see Analysis 1.
 
 2. The guarantee is from loss optimization process (Equ. 6+10). Each step manifests a better tradeoff between quality and ACC. No. n is the final robust one.
 
@@ -30,7 +30,7 @@ To **awCF**:
 
 1-2. The new PGD is to ensure the quality lower bound.
 
-3-5. DADW is a baseline; AdvMark is the SOTA with some overhead; Please See Analysis 1 and 2.
+3-5. DADW is a baseline; AdvMark is the SOTA with some overhead; Please See Analysis 1+2.
 
 ||PSNR|JPEG|V1-4|Wevade|
 |:-:|:-:|:-:|:-:|:-:|
@@ -45,7 +45,7 @@ To **zoLk**:
 
 1-2. Please see Analysis 1.
 
-3. We've covered Advmark w/ different settings in paper Table 3, because some methods like StegaStamp need fixed input.
+3. We've covered Advmark w/ different settings in Table 3, because some methods like StegaStamp need fixed input.
 
 To **L5QU**:
 
